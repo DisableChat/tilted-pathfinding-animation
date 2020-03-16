@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tilted-pathfinding-animation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tilted-pathfinding-animation/static/js/main.fa0ab3e8.chunk.js",
+    "main.js.map": "/tilted-pathfinding-animation/static/js/main.fa0ab3e8.chunk.js.map",
+    "runtime-main.js": "/tilted-pathfinding-animation/static/js/runtime-main.022a964f.js",
+    "runtime-main.js.map": "/tilted-pathfinding-animation/static/js/runtime-main.022a964f.js.map",
+    "static/js/2.ed953804.chunk.js": "/tilted-pathfinding-animation/static/js/2.ed953804.chunk.js",
+    "static/js/2.ed953804.chunk.js.map": "/tilted-pathfinding-animation/static/js/2.ed953804.chunk.js.map",
+    "index.html": "/tilted-pathfinding-animation/index.html",
+    "precache-manifest.9f830ec5d009f81cc22216f1652b33a0.js": "/tilted-pathfinding-animation/precache-manifest.9f830ec5d009f81cc22216f1652b33a0.js",
+    "service-worker.js": "/tilted-pathfinding-animation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tilted-pathfinding-animation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ed953804.chunk.js.LICENSE.txt": "/tilted-pathfinding-animation/static/js/2.ed953804.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tilted-pathfinding-animation/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022a964f.js",
+    "static/js/2.ed953804.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa0ab3e8.chunk.js"
+  ]
+}
