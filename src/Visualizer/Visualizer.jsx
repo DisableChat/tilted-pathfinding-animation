@@ -3,6 +3,11 @@ import Node from "./Node";
 
 import "./Visualizer.css";
 
+const NODE_START_ROW = 5;
+const NODE_START_COL = 5;
+const NODE_END_ROW = 20;
+const NODE_END_COL = 45;
+
 export default class Visualizer extends Component {
     constructor(props) {
         super(props);
@@ -19,8 +24,8 @@ export default class Visualizer extends Component {
                 const currentNode = {
                     row,
                     col,
-                    start: row === 5 && col === 5,
-                    end: row === 20 && col === 45
+                    start: row === NODE_START_ROW && col === NODE_START_COL,
+                    end: row === NODE_END_ROW && col === NODE_END_COL
                 };
                 currentRow.push(currentNode);
             }
@@ -45,8 +50,6 @@ export default class Visualizer extends Component {
                                         key={nodeIdx}
                                         start={start}
                                         end={end}
-                                        test={"rip"}
-                                        test={"smae"}
                                     ></Node>
                                 );
                             })}
